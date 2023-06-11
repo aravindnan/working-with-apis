@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .App {
   text-align: center;
 }
@@ -36,3 +40,21 @@
     transform: rotate(360deg);
   }
 }
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  display: none;
+}
+
+input[type='password'] {
+  font-family: Verdana;
+  letter-spacing: 0.125em;
+}
+
+input[type="checkbox"] {
+
+  width: 1.15em;
+  height: 1.15em;
+ 
+}
+

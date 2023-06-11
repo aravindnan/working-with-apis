@@ -1,0 +1,58 @@
+ export const pData = [
+  {
+    pName: "Product 1",
+    pId: 110,
+    pPrice: "10$",
+    pInstock: true,
+    pDate: "June 1 2022",
+  },
+  {
+    pName: "Product 2",
+    pId: 150,
+    pPrice: "30$",
+    pInstock: false,
+    pDate: "July 2 2022",
+  },
+  {
+    pName: "Product 3",
+    pId: 122,
+    pPrice: "20$",
+    pInstock: true,
+    pDate: "April 12 2022",
+  },
+  {
+    pName: "Product 4",
+    pId: 180,
+    pPrice: "17$",
+    pInstock: false,
+    pDate: "Jan 23 2022",
+  },
+  {
+    pName: "Product 5",
+    pId: 200,
+    pPrice: "23$",
+    pInstock: false,
+    pDate: "Dec 1 2022",
+  },
+  {
+    pName: "Product 6",
+    pId: 560,
+    pPrice: "16$",
+    pInstock: true,
+    pDate: "Aug 24 2022",
+  },
+  {
+    pName: "Product 7",
+    pId: 179,
+    pPrice: "12$",
+    pInstock: false,
+    pDate: "Dec 13 2022",
+  },
+  {
+    pName: "Product 8",
+    pId: 132,
+    pPrice: "13$",
+    pInstock: true,
+    pDate: "May 31 2022",
+  },
+];
